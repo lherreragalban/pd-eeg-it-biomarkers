@@ -1,6 +1,5 @@
 # pd-eeg-it-biomarkers
 # Altered complexity–entropy dynamics of the EEG frequency bands in Parkinson's disease
-<img width="2649" height="314" alt="imagen" src="https://github.com/user-attachments/assets/a710b0a7-f7d1-4db4-8add-256f520b6678" />
 
 **Authors:** Luis Miguel Herrera, Fernando Montani, Román Baravalle  
 **Affiliation:** Instituto de Física La Plata (IFLP), CONICET – Universidad Nacional de La Plata (UNLP), Argentina.
@@ -9,7 +8,7 @@
 
 ### 📬 Contact & Links
 * **Email:** lherreragalban@gmail.com
-* **ORCID / ResearchGate / GitHub:** [Tu Perfil](https://tu-enlace.com)
+* **ORCID / ResearchGate / GitHub:** https://github.com/lherreragalban
 
 ---
 
